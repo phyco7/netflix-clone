@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Netflix Sans';
+    src: url('path/to/netflix-sans.woff2') format('woff2'),
+         url('path/to/netflix-sans.woff') format('woff');
+    /* Add other font properties as needed */
+}
+
+body {
+    font-family: 'Netflix Sans', sans-serif;
+}
